@@ -122,5 +122,7 @@ for t in range(epochs):
         final_acc=test_loop(test_dataloader,model,loss_function)
         writer.add_scalar('Accuracy/test',final_acc,t)
 print("Finished")
+
+#Close writer
 writer.flush()
 writer.close()
