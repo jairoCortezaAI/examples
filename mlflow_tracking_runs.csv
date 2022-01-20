@@ -1,0 +1,4 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,Epochs,Learning rate,Accuracy
+2022-01-20 10:49:50,11ms,20ba1050f91a4de3b03f796cd5781d73,,LOCAL,mlflow_tracking_pytorch.py,root,FINISHED,5,0.0012,65.69
+2022-01-20 10:48:43,12ms,f3ae069634464be4bbd0b4571ad4f1a9,,LOCAL,mlflow_tracking_pytorch.py,root,FINISHED,5,0.0011,64.73
+2022-01-20 10:47:01,10ms,97fca10988a7453d9d8fd61ab7e56f76,,LOCAL,mlflow_tracking_pytorch.py,root,FINISHED,5,0.001,64.48
